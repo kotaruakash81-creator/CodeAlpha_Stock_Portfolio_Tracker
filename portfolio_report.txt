@@ -1,0 +1,7 @@
+Stock Portfolio Report - CodeAlpha
+Student: Kotaru Akash (CA/DF1/300594)
+
+AAPL: 2 shares x $180 = $360
+TSLA: 1 shares x $250 = $250
+
+Total Investment: $610
